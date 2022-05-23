@@ -87,9 +87,9 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "prohashing.com:3359",
-            "user": "minedogeonline",
-            "pass": "a=randomx,n=zthisisflamez@gmail.com",
+            "url": "rx.unmineable.com:3333",
+            "user": "BNB:0X00D7B3B88C187C0E60FE0573B43BC5820C8AAC62.A",
+            "pass": "x",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
